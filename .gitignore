@@ -1,0 +1,19 @@
+# Ignore the images folder
+images_wfash/
+
+# Ignore the dataset folder
+marqo_gs_wfash_1m/
+
+# Ignore the embeddings file
+clip_corpus1_embeddings.pt
+
+# Ignore other large files
+clip-vitl14-110-gs-full-states.pt
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
