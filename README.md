@@ -31,7 +31,6 @@ SEARCH-ENGINE-DSAI-COPY/
 
 ```bash
 git clone https://github.com/yusufimantaka/multimodal-searchengine.git
-cd search-engine-dsai-copy
 ```
 
 ### 2. Download the Required Data
