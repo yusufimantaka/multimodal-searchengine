@@ -30,7 +30,7 @@ SEARCH-ENGINE-DSAI-COPY/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yusufimantaka/search-engine-dsai-copy.git
+git clone https://github.com/yusufimantaka/multimodal-searchengine.git
 cd search-engine-dsai-copy
 ```
 
